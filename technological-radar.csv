@@ -144,4 +144,4 @@ Windev,Hold,Languages & Frameworks,FALSE,
 Zabbix,Hold,Platforms,FALSE,Monitoring
 zOS - MVS,Hold,Platforms,FALSE,OS IBM  des serveurs zSeries, a succéder à OS/390 et MVS
 Proxy HTTP Fortinet ACF,Adopt,Platforms,TRUE,Accès sortant internet besoin technique des Applications
-Zscaler,Adopt,Platforms,FALSE,Accès sortant internet "Surf Internet"
+Zscaler,Adopt,Platforms,FALSE,Accès sortant internet
