@@ -44,7 +44,7 @@ Amazon RDS,Adopt,Tools,FALSE,Amazon Relational Database Service - Service de ges
 AWS Kinesis Data Analytics,Assess,Languages & Frameworks,FALSE,Analyser des flux de données avec SQL ou Apache Flink
 AWS Kinesis Data Firehose,Assess,Tools,FALSE,Charger des flux de données dans des magasins de données AWS
 AWS Kinesis Video Streams,Assess,Tools,FALSE,"Capturer, traiter et stocker des flux vidéo"
-Amazon SNS,Adopt,Tools,TRUE,"Service de Notification qui permet d'envoyer des messages via SMS, Mobile Push et e-mail (Amazon Simple Notification Service)" 
+Amazon SNS,Adopt,Tools,TRUE,"Service de Notification qui permet d'envoyer des messages via SMS, Mobile Push et e-mail (Amazon Simple Notification Service)"
 Amazon SQS,Adopt,Tools,FALSE,Service de file d'attente de messagerie (Amazon Simple Queue Service)
 AWS RDS Aurora,Assess,Tools,FALSE,Base de données RDS compatible PostgreSQL en mode ServerLess
 AWS RedShift,Assess,Tools,FALSE,Base de données de type Data Warehouse en mode ServerLess
