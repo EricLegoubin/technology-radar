@@ -1,0 +1,147 @@
+name,ring,quadrant,isNew,description
+.Net,Hold,Languages & Frameworks,TRUE,Suite Microscoft pour le déploiement d'application Web
+ActiveMQ,Hold,Tools,TRUE,
+AD On Premise,Adopt,Platforms,FALSE,kerberos / pam_ldap / Radius / 
+Airflow,Adopt,Platforms,FALSE,Ordonnancement
+AIX,Hold,Platforms,FALSE,OS UNIX IBM pour architecture POWER
+Amazon CloudFront,Adopt,Platforms,FALSE,Réseau de diffusion de contenu statique (CDN) rapide et fortement sécurisé 
+Amazon CloudWatch,Hold,Platforms,FALSE,Service de surveillance et d'observabilité des ressources et des applications
+Amazon ECR,Adopt,Platforms,FALSE,EC2 Container Registry (ECR) - Registre de conteneurs
+Amazon ECS,Hold,Platforms,FALSE,Elastic Container Service- Service d'orchestration de conteneurs propriétaire AWS 
+Amazon EC2,Hold,Platforms,FALSE,Capacité de calcul évolutive (Amazon Elastic Compute Cloud)
+Amazon EFS,Hold,Platforms,FALSE,Elastic File System - Système de fichiers de type Block, élastique, simple et sans serveur (Amazon EFS)
+Amazon EKS,Adopt,Platforms,FALSE,Plateforme de conteneurs qui repose sur Kubernetes (Amazon EKS)
+Amazon Elastic Block Store,Hold,Platforms,FALSE,Service de stockage par bloc conçu pour Amazon EC2 (Amazon Elastic Block Store)
+Amazon Elastic Load Balancing,Adopt,Platforms,FALSE,Service de répartition de charge pour le cloud (Amazon Elastic Load Balancing)
+Amazon Linux 2,Adopt,Platforms,TRUE,OS EC2
+Amazon Route 53,Adopt,Platforms,FALSE,Service de système de noms de domaine (DNS)
+Amazon S3,Adopt,Platforms,FALSE,Service de stockage de données orienté Objet (Amazon Simple Storage Service)
+Amazon SES,Hold,Platforms,FALSE,Service de messagerie électronique (Amazon Simple Email Service)
+Amazon GuardDuty,Trial,Platforms,FALSE,Service de détection intelligente des menaces et activités malveillantes dans AWS
+Amazon VPC,Adopt,Platforms,FALSE,Réseau virtuel dédié à un compte AWS (Virtual private cloud)
+AWS Backup,Adopt,Platforms,FALSE,Service de sauvegarde centralisée dans le cloud
+Amazon MWAA,Trial,Platforms,FALSE,Managed Workflows for Apache Airflow - Plateforme d'orchestration de flux de travail basé sur la solution open-source apache Airflow (Amazon MWAA)
+AWS Certificate Manager,Hold,Platforms,FALSE,Service pour la gestion des certificats Secure Sockets Layer/Transport Layer Security (SSL/TLS) publics et privés
+AWS CloudTrail,Adopt,Platforms,FALSE,Service de suivi et d’audit de l'activité des utilisateurs et de l'utilisation des API AWS
+AWS Direct Connect,Adopt,Platforms,FALSE,Service de connexion réseau dédiée entre AWS et nos Datacenters On-Premise
+AWS IAM,Adopt,Platforms,FALSE,Service de gestion des identités et des accès aux ressources déployées dans AWS (AWS Identity and Access Management)
+AWS KMS,Adopt,Platforms,FALSE,Key Management Service - Service de gestion des clés cryptographiques pour le chiffrement des données (AWS KMS)
+AWS Secrets Manager,Hold,Platforms,FALSE,Gestion des secrets (informations d'identification de base de données, des clés d'API et d'autres secrets)
+AWS Systems Manager,Hold,Platforms,FALSE,Service permettant d'établir des connexions sécurisées à nos instances Amazon EC2 (AWS Systems Manager Session Manager)
+AWS Transfer Family,Adopt,Platforms,FALSE,Service de flux de travail de transfert de fichiers sans serveur (AWS Transfer Family for SFTP)
+AWS WAF,Adopt,Platforms,FALSE,Service de pare-feu d'application Web permettant le contrôle du trafic entrant des applications et sites Web
+Apache HTTP Server,Hold,Tools,TRUE,
+Apache Tomcat,Adopt,Tools,TRUE,Serveur d'application java JSP/Servlets
+Apollo,Adopt,Languages & Frameworks,FALSE,Framework GraphQL
+AVAYA,Adopt,Platforms,FALSE,Téléphonie
+Amazon Athena,Adopt,Tools,FALSE,Service de requête interactif de données stockées dans Amazon S3
+Amazon DynamoDB,Trial,Tools,TRUE,Service de base de données clé-valeur NoSQL
+Amazon ElastiCache,Hold,Tools,FALSE,Service de Cache mémoire hautement disponible
+AWS Config,Trial,Platforms,FALSE,Service permettant de contrôler la conformité des configurations des ressources déployées dans AWS
+Amazon MSK,Adopt,Tools,TRUE,Managed Streaming for Apache Kafka - Plateforme de streaming de données basé sur la solution open-source Apache Kafka (Amazon MSK)
+Amazon OpenSearch Service,Adopt,Tools,FALSE,Moteur d'indexation, de recherche et d'analytique distribué de fichiers non structurés (successeur de Elasticsearch Service)
+Amazon RDS,Adopt,Tools,FALSE,Amazon Relational Database Service - Service de gestion de base de données relationnelle (Amazon RDS)
+AWS Kinesis Data Analytics,Assess,Languages & Frameworks,FALSE,Analyser des flux de données avec SQL ou Apache Flink
+AWS Kinesis Data Firehose,Assess,Tools,FALSE,Charger des flux de données dans des magasins de données AWS
+AWS Kinesis Video Streams,Assess,Tools,FALSE,Capturer, traiter et stocker des flux vidéo
+Amazon SNS,Adopt,Tools,TRUE,Service de Notification qui permet d'envoyer des messages via SMS, Mobile Push et e-mail (Amazon Simple Notification Service) 
+Amazon SQS,Adopt,Tools,FALSE,Service de file d'attente de messagerie (Amazon Simple Queue Service)
+AWS RDS Aurora,Assess,Tools,FALSE,Base de données RDS compatible PostgreSQL en mode ServerLess
+AWS RedShift,Assess,Tools,FALSE,Base de données de type Data Warehouse en mode ServerLess
+AWS Glue (Spark Serverless),Adopt,Tools,FALSE,ostgre
+Amazon EMR,Adopt,Languages & Frameworks,FALSE,Plateforme de traitement et d'analyse Big Data (Amazon Elastic MapReduce) 
+Amazon SageMaker,Hold,Languages & Frameworks,FALSE,Plate-forme d'apprentissage automatique (machine learning) pour les Data Scientists
+AWS Lambda,Assess,Languages & Frameworks,TRUE,Service de calcul sans serveur
+Azure AD,Adopt,Platforms,FALSE,o365 & SaaS, SAML v2, OIDC, Multifactor Authentication
+Azure AD B2C,Adopt,Platforms,FALSE,OpenID Connect
+C#,Hold,Languages & Frameworks,FALSE,
+cacti,Hold,Platforms,FALSE,Monitoring
+cavo,Hold,Languages & Frameworks,FALSE,
+CFT,Hold,Platforms,FALSE,Transfert de fichiers
+Checkpoint,Adopt,Platforms,FALSE,Firewall
+checkpoint,Adopt,Platforms,FALSE,IPS
+Checkpoint ipsec,Adopt,Platforms,FALSE,VPN IPSec
+CISCO,Adopt,Platforms,FALSE,Routeur
+CISCO,Adopt,Platforms,FALSE,SWITCH
+CISCO,Adopt,Platforms,FALSE,Wifi
+CISCO,Adopt,Platforms,FALSE,VISIOCONF
+CISCO Anyconnect,Adopt,Platforms,FALSE,VPN SSL - poste de travail (mode client)
+CISCO ISE,Adopt,Platforms,FALSE,RADIUS
+Cobol,Hold,Languages & Frameworks,FALSE,
+ContainerD,Adopt,Platforms,TRUE,Runtime
+Cri-o,Assess,Platforms,TRUE,Solution de conteneurisation, création d'image (Dev, CI)
+Datastage,Hold,Tools,FALSE,
+Debian (stretch),Hold,Platforms,FALSE,Distribution Linux libre
+Docker,Hold,Platforms,FALSE,Runtime
+Docker,Adopt,Platforms,FALSE,Solution de conteneurisation, création d'image (Dev, CI)
+EFFICIENT IP,Adopt,Platforms,FALSE,DDI
+File Gateway,Adopt,Platforms,FALSE,transfert de fichiers On Prem
+Firebird SQL Server,Hold,Tools,TRUE,BDD SGBDR
+Fortinet,Hold,Platforms,FALSE,Firewall
+FORTINET,Hold,Platforms,FALSE,VPN IPSec
+gatsby,Assess,Languages & Frameworks,FALSE,front - best for CDN (content delivery network) et PWA (progressive web app)
+golang,Assess,Languages & Frameworks,FALSE,
+HAProxy,Adopt,Platforms,FALSE,proxy/répartiteur de charge (niv. 7?)
+IBM DB2 ,Hold,Tools,TRUE,BDD SGBDR
+IBM HTTP Server (IHS),Hold,Tools,TRUE,
+IBM WebSphere Application Server,Hold,Tools,TRUE,Serveur d'application java JEE
+InfluxDB,Assess,Tools,TRUE,BDD NoSQL orientée time series
+iPhone/iPad,Adopt,Platforms,FALSE,Mobile
+Java,Adopt,Languages & Frameworks,FALSE,
+Javascript,Adopt,Languages & Frameworks,FALSE,
+JDK - IBM,Hold,Languages & Frameworks,FALSE,
+JDK - OpenJDK,Adopt,Languages & Frameworks,FALSE,
+JDK - Oracle,Hold,Languages & Frameworks,FALSE,
+Kong,Adopt,Platforms,FALSE,API Gateway
+Kotlin,Hold,Languages & Frameworks,FALSE,java next gen
+LDAP389,Hold,Platforms,FALSE,
+MariaBD,Hold,Tools,TRUE,BDD SGBDR
+MCAfee,Adopt,Platforms,FALSE,Antivirus poste de travail
+MCAfee,Adopt,Platforms,FALSE,Firewall poste de travail
+Microsoft IIS (Internet Information Services),Hold,Tools,FALSE,
+Microsoft Internet Information Services,Hold,Tools,TRUE,
+Microsoft SQL Server,Hold,Tools,TRUE,BDD SGBDR
+Microsoft Windows Server,Hold,Platforms,FALSE,Operating System ecosysteme Windows.
+MongoDB,Assess,Tools,TRUE,BDD NoSQL orientée document
+MQ Series,Hold,Tools,FALSE,
+Mysql,Hold,Tools,TRUE,BDD SGBDR
+Neo4J,Assess,Tools,TRUE,BDD NoSQL orientée graphe
+NginX,Adopt,Tools,TRUE,
+NodeJS,Adopt,Languages & Frameworks,FALSE,
+OpsGenie,Adopt,Platforms,FALSE,Alerting
+Oracle Application Server OC4J,Hold,Tools,TRUE,Serveur d'application java JEE
+Oracle Application Server OC4J,Hold,Tools,FALSE,
+Oracle Database,Hold,Tools,TRUE,BDD SGBDR
+OS400 - AS400,Hold,Platforms,FALSE,OS IBM des serveurs AS/400 ou iSeries
+PostgreSQL,Adopt,Tools,TRUE,BDD SGBDR
+PowerBI,Adopt,Tools,TRUE,Outil de BI (mise en forme, dashboard, …)
+Progress,Hold,Languages & Frameworks,FALSE,
+Prometheus + Grafana + Alert Manager,Adopt,Platforms,FALSE,Monitoring
+Python,Adopt,Languages & Frameworks,FALSE,
+QRADAR,Adopt,Platforms,FALSE,Outil de SIEM
+reactjs,Adopt,Languages & Frameworks,FALSE,front - single page application
+Red Hat 8.x,Adopt,Platforms,TRUE,Distribution Linux de l'éditeur RedHat avec support payant.
+REDIS,Adopt,Tools,TRUE,BDD NoSQL clé/valeur en mémoire
+RPG,Hold,Languages & Frameworks,TRUE,Langage de prg sur AS400
+Scala,Adopt,Languages & Frameworks,FALSE,
+Sign&Go IDP,Hold,Platforms,FALSE,SAML v2
+SnowFlake,Assess,Tools,FALSE,Plateforme data / BDD en modele SaaS multi-cloud (AWS/Azure)
+Spring Batch,Adopt,Languages & Frameworks,FALSE,Framework de développement de batch
+Spring Boot,Adopt,Languages & Frameworks,FALSE,Framework de développement d'API
+Spring Intégration,Hold,Languages & Frameworks,FALSE,Framework de développement de workflow
+Spring Security,Adopt,Languages & Frameworks,FALSE,Framework de développement pour la sécurité
+Spring Webservice,Hold,Languages & Frameworks,FALSE,Framework de développement de WS
+Stambia,Adopt,Tools,FALSE,Outil ELT/ETL, transformation de données en mode industriel par génération de code.
+Suze Linux x64,Hold,Platforms,FALSE,Distribution Linux de l'éditeur Suse avec support payant.
+TWS,Hold,Platforms,FALSE,Ordonnancement
+Typescript,Adopt,Languages & Frameworks,FALSE,
+Vault,Adopt,Platforms,FALSE,gestion Mots de Passe
+Visualbasic,Hold,Languages & Frameworks,FALSE,
+Wallix,Adopt,Platforms,FALSE,Bastion
+Websphere Message Broker (a.k.a IIB),Hold,Tools,FALSE,
+WildFly (aka JBOSS),Hold,Tools,TRUE,Serveur d'application java EJB
+Windev,Hold,Languages & Frameworks,FALSE,
+Zabbix,Hold,Platforms,FALSE,Monitoring
+zOS - MVS,Hold,Platforms,FALSE,OS IBM  des serveurs zSeries, a succéder à OS/390 et MVS
+Proxy HTTP Fortinet ACF,Adopt,Platforms,TRUE,Accès sortant internet besoin technique des Applications
+Zscaler,Adopt,Platforms,FALSE,Accès sortant internet "Surf Internet"
